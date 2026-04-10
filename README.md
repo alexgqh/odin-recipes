@@ -9,3 +9,5 @@ content soundly.
 ## ATTRIBUTIONS
 ![Lamb Korma](recipes/lamb-korma.jpeg)
 *Image by [Sam Schuno](https://www.flickr.com/photos/schuno/) licensed under [CC-BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+![Brownies](recipes/brownies.jpg)
+*Image by [jeffreyw](https://commons.wikimedia.org/wiki/File:Several_brownies.jpg) licensed under [CC-BY 2.0](https://creativecommons.org/licenses/by/2.0/deed.en)
